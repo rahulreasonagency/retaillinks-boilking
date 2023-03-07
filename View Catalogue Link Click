@@ -1,0 +1,7 @@
+analytics.track("View Catalogue Link Click", {
+  element_id: 'viewCatalogueClick',
+  category: 'catalogue',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click'
+});
