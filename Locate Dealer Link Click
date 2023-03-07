@@ -1,0 +1,7 @@
+analytics.track("Locate Dealer Link Click", {
+  element_id: 'locateDealerClick',
+  category: 'dealer',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+});
