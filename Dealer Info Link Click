@@ -1,0 +1,7 @@
+analytics.track("Dealer Info Link Click", {
+  element_id: 'dealerInfoClick',
+  category: 'dealer',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+});
