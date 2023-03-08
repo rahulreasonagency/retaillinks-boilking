@@ -1,0 +1,7 @@
+analytics.track("Spare Parts Form Submit", {
+  element_id: 'sparePartsForm',
+  category: 'form',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'submit',
+});
