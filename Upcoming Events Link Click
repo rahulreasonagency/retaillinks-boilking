@@ -1,0 +1,7 @@
+analytics.track("Upcoming Events Link Click", {
+  element_id: 'upcomingEventsClick',
+  category: 'events',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+});
