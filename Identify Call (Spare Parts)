@@ -1,0 +1,5 @@
+analytics.identify({
+  name: <<first and last name>>,
+  phone: <<phone number>>,
+  email: <<email>>,
+});
