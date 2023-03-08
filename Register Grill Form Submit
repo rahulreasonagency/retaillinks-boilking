@@ -1,0 +1,7 @@
+analytics.track("Register Grill Form Submit", {
+  element_id: 'registerGrillForm',
+  category: 'form',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'submit',
+});
