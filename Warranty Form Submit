@@ -1,4 +1,4 @@
-analytics.track("Wanrranty Form Submit", {
+analytics.track("Warranty Form Submit", {
   element_id: 'warrantyForm',
   category: 'form',
   label: <<click text>>,
