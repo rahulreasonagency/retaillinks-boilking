@@ -1,0 +1,7 @@
+analytics.track("Wanrranty Form Submit", {
+  element_id: 'warrantyForm',
+  category: 'form',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'submit',
+});
