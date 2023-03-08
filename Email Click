@@ -1,0 +1,7 @@
+analytics.track("Email Click", {
+  element_id: 'emailClick',
+  category: 'email',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+});
