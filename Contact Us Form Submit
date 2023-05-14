@@ -1,0 +1,7 @@
+analytics.track("Contact Us Form Submit", {
+  element_id: 'contactUsForm',
+  category: 'form',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'submit',
+});
