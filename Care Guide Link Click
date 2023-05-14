@@ -1,0 +1,7 @@
+analytics.track("Care Guide Link Click", {
+  element_id: 'guideClick',
+  category: 'file',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'view',
+});
